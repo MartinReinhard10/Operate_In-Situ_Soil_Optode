@@ -1,10 +1,10 @@
-This Repository includes Python scripts that enables operation of the In-Situ imaging system.
+This Repository includes Python scripts that enables operation of the In-Situ imaging system (MARTINIS).
 Run the script GUI_Control.py on Raspberry Pi to operate the system through an interface. Some packages require Linux operating system and will NOT run on Windows or Mac OS
 
 For information on specfic system components please go to: https://doi.org/10.5281/zenodo.13918877
 For additional questions and Python scripts for data processing of images please contact: martinreinhard@bio.au.dk
 
-Please refer to the paper ... for further information regarding the in-situ imaging system for planar optodes in soils.
+Please refer to the paper https://doi.org/10.1016/j.snb.2024.136894 for further information regarding the in-situ imaging system (MARTINIS) for planar optodes in soils.
 
 
 ---
